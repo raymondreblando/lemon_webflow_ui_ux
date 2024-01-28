@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://github.com/raymondreblando/lemon_webflow_ui_ux/public/repo-banner.jpg" alt="Project Banner">
+    <img src="https://rrdev.online/assets/lemon_webflow_ui_ux/repo-banner.png" alt="Project Banner">
   <br />
 
   <div>
